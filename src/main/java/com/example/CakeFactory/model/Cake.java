@@ -5,6 +5,8 @@ import javax.persistence.*;
 @Table(name ="Cake")
 public class Cake
 {
+
+    //This is my fav Property
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="Id")
