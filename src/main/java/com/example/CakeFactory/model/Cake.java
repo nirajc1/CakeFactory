@@ -6,7 +6,7 @@ import javax.persistence.*;
 public class Cake
 {
 
-    //This is my fav Property
+    //This is Deepas 1st cake Factory
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="Id")
