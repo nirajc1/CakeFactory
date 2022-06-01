@@ -6,7 +6,7 @@ import javax.persistence.*;
 public class Cake
 {
 
-    //This is my fav Property
+    //This is my 1st cake reposytory
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="Id")
